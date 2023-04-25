@@ -9,9 +9,9 @@ body {
 
 a:hover { color: #090; }
 
-.space30 { margin-top: 30px; }
+.space30 { margin-top: 0px; }
 
-.row ul { padding-left: 30px; }
+.row ul { padding-left: 10px; }
 
 .clear { clear: both; }
 
@@ -33,12 +33,21 @@ a:hover { color: #090; }
     color: #000000;
 }
 
-.main_carbon {
+.redessociales_carbon {        
+    color: #000000;    
+    font-size: medium;
+	margin-top: 10px;
+}
+
+
+.redessociales_carbon2 {          
+    color: #000000;    
+    font-size: medium;
+}
+
+.main_carbon {    
     border-top: 1px solid #eee;
-    margin-top: 40px;
-    padding-top: 20px;
-    color: #000000;
-    margin-left: 16px;
+    color: #000000;    
     font-size: medium;
 }
 
@@ -88,7 +97,6 @@ a:hover { color: #090; }
 }
 .nav.nav-justified .active a {
 }
-
 
 
 
